@@ -2,8 +2,8 @@
 
 <br/>
 
-## Background
-
+## Education
+2020.03 ~ : Kwangwoon University, Software. <br>
 <br/>
 
 ## Certificate
