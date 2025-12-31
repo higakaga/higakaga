@@ -2,6 +2,10 @@
 
 <br/>
 
+## Education
+2020.03 ~ : Kwangwoon University, Software. <br>
+<br/>
+
 ## Certificate
 2025.06 : 정보처리기사 취득 <br>
 2025.06 : ADsP 취득 <br>
