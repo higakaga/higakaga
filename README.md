@@ -6,6 +6,10 @@
 2020.03 ~ : Kwangwoon University, Software. <br>
 <br/>
 
+## Experience
+2025.01 ~ 2025.12 : 멋쟁이사자처럼 대학 13기 광운대학교. <br>
+<br/>
+
 ## Certificate
 2025.06 : 정보처리기사 취득 <br>
 2025.06 : ADsP 취득 <br>
